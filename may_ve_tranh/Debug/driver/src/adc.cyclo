@@ -1,0 +1,3 @@
+../driver/src/adc.c:8:6:ADC_Clock	8
+../driver/src/adc.c:23:6:ADC_Init	1
+../driver/src/adc.c:52:10:ADC_Read	1

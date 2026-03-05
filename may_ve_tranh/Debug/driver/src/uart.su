@@ -1,0 +1,10 @@
+../driver/src/uart.c:8:6:UART_CLK	16	static
+../driver/src/uart.c:29:17:UART_Baudrate_caculation	48	static
+../driver/src/uart.c:41:6:UART_Init	24	static
+../driver/src/uart.c:67:6:UART_Control	16	static
+../driver/src/uart.c:75:6:UART_Transmit	24	static
+../driver/src/uart.c:110:6:UART_Receive	24	static
+../driver/src/uart.c:145:9:UART_Transmit_IT	32	static
+../driver/src/uart.c:157:9:UART_Receive_IT	32	static
+../driver/src/uart.c:169:27:Application_CallBack	16	static
+../driver/src/uart.c:173:6:UART_IRQ_Handle	24	static

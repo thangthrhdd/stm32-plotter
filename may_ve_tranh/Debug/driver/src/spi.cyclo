@@ -1,0 +1,10 @@
+../driver/src/spi.c:8:6:SPI_CLK	8
+../driver/src/spi.c:23:6:SPI_Init	4
+../driver/src/spi.c:64:6:SPI_Control	2
+../driver/src/spi.c:72:6:SPI_SSI_ConFig	2
+../driver/src/spi.c:80:6:SPI_SSOE_ConFig	2
+../driver/src/spi.c:88:6:SPI_Master_Transmit	5
+../driver/src/spi.c:108:6:SPI_Master_Receive	4
+../driver/src/spi.c:130:9:SPI_Master_Transmit_IT	2
+../driver/src/spi.c:142:9:SPI_Master_Receive_IT	2
+../driver/src/spi.c:154:6:SPI_IRQ_Handle	7
