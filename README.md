@@ -10,5 +10,7 @@ Key features:
 - Control endpoint (EP0) handling
 - Bulk data transfer
 - Communication with PC via USB CDC
+# Email
+nguyenngocthang2903@gmail.com
 # video demo
 https://drive.google.com/file/d/1PhOfj9GDcvocCzhmhupe0Rvk1RJCMhb8/view?usp=drive_link
